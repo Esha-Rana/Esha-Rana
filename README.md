@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi👋, I'm Esha Rana! 
 
-<!--
-**Esha-Rana/Esha-Rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 A Computer Science student at Kathmandu University, navigating my way through programming, mathematics, and engineering concepts. As a beginner in coding, I'm excited to explore new technologies and solve challenging problems.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- **C Programming** – building a strong foundation in coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Projects & Interests
+- 🧶 **Creative Coding & Crochet** – Designing crochet keyring patterns and experimenting with algorithm-generated designs.
+- 📷 [**Youtube**](https://www.youtube.com/@esharana1681) - Editing the video creating a thumbnail and everything you see on my channel.
+## 🎯 Goals
+- Solve more coding challenges and participate in open-source projects.
+- Develop practical applications 
+- Enhance my problem-solving skills for competitive exams - Merge creativity and coding by exploring computational design in arts & crafts.
+
+[![Esha's github stats](https://github-readme-stats.vercel.app/api?username=Esha-Rana&theme=omni_icons=true)]
+
+🚀 *Eager to learn, build, and grow!*
