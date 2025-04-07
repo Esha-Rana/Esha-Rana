@@ -3,7 +3,7 @@
 👩‍💻 A Computer Science student at Kathmandu University, navigating my way through programming, mathematics, and engineering concepts. As a beginner in coding, I'm excited to explore new technologies and solve challenging problems.
 
 ## 🌱 Currently Learning
-- **C Programming** – building a strong foundation in coding.
+- **C Programming & Python** – building a strong foundation in coding.
 
 
 ## 🛠️ Projects & Interests
