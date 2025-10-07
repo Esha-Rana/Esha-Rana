@@ -3,12 +3,12 @@
 👩‍💻 A Computer Science student at Kathmandu University, navigating my way through programming, mathematics, and engineering concepts. As a beginner in coding, I'm excited to explore new technologies and solve challenging problems.
 
 ## 🌱 Currently Learning
-- ** Web development ** 
+- **Web development** 
 
 ## 🛠️ Projects & Interests
 
 - 📷 [**Youtube**](https://www.youtube.com/@esharana1681) - Editing the video creating a thumbnail and everything you see on my channel.
-- 
+
 ## 🎯 Goals
 - Solve more coding challenges and participate in open-source projects.
 - Develop practical applications 
